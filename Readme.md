@@ -22,7 +22,7 @@ Sebelum menjalankan project ini, pastikan kamu sudah menginstall:
 ### 1. Clone Repository
 
 ```bash
-git clone [https://github.com/muhammadkusuma/golang-restful-api.git](https://github.com/muhammadkusuma/golang-restful-api.git)
+git clone https://github.com/muhammadkusuma/golang-restful-api.git
 cd golang-restful-api
 ```
 
